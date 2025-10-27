@@ -81,3 +81,4 @@ Chaque fonctionnalité devra être pensée pour la sécurité. Par exemple, la n
 > - Waze : Innovations en reporting vocal et zones scolaires
 > - data.gouv.fr : Données officielles des feux de signalisation
 > - legifrance.gouv.fr : Réglementation sur les avertisseurs
+
